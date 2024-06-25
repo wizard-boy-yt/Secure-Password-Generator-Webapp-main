@@ -21,7 +21,7 @@ SecPassGen is a secure password generator web application built with Flask, allo
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/instax-dutta/Secure-Password-Generator-Webapp.git
+git clone https://github.com/wizard-boy-yt/Secure-Password-Generator-Webapp-main
 ```
 
 2. Navigate to the project directory:
